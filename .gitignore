@@ -11,9 +11,6 @@ __pycache__/
 .env/
 
 # Data files
-*.json
-*.txt
-*.csv
 .env
 
 # Jupyter Notebook
